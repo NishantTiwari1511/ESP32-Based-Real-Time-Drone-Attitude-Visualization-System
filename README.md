@@ -64,16 +64,11 @@ Live 3D airframe view with Roll and Pitch telemetry and system status.
 
 <img width="967" height="487" alt="dashboard" src="https://github.com/user-attachments/assets/932f5df0-2d47-4499-9ca7-0ee7871447c3" />
 
-## 🎥 Project Demo
-
-Add your demonstration video link here.
-
 ## 👨‍💻 Developer
 
 **Nishant Tiwari**
 
-Electronics and Telecommunication Engineering  
-Anantrao Pawar College of Engineering (APCOER), Pune
+Electronics and Telecommunication Engineering
 
 ## 📌 Project Status
 Completed – Real-time 3D visualization and wireless sensor monitoring demonstrated.
