@@ -42,6 +42,9 @@ FlightLab 3D is an ESP32-based drone visualization project that uses the MPU6050
 3. Select ESP32 DevKit V1.
 4. Upload the code to ESP32.
 5. Connect your computer or phone to the `Drone-ESP32` Wi-Fi network.
+
+   The Wi-Fi password is set in the `.ino` file (change `WIFI_PASSWORD` before use).
+
 6. Open your browser and visit:
 
    `http://192.168.4.1`
