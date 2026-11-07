@@ -57,14 +57,12 @@ The MPU6050 sensor measures acceleration and angular velocity. ESP32 processes t
 ### Hardware Setup with Live Dashboard
 ESP32 and MPU6050 on a breadboard, with the dashboard running on the laptop and responding to the sensor's tilt.
 
-![Hardware setup with live dashboard](<img width="772" height="433" alt="hardware-setup" src="https://github.com/user-attachments/assets/78f013fd-8d0b-4eb3-8856-a2a94fb30241" />)
-
+<img width="772" height="433" alt="hardware-setup" src="https://github.com/user-attachments/assets/78f013fd-8d0b-4eb3-8856-a2a94fb30241" />
 
 ### FlightLab Web Dashboard
 Live 3D airframe view with Roll and Pitch telemetry and system status.
 
-![FlightLab web dashboard](<img width="967" height="487" alt="dashboard" src="https://github.com/user-attachments/assets/932f5df0-2d47-4499-9ca7-0ee7871447c3" />
-)
+<img width="967" height="487" alt="dashboard" src="https://github.com/user-attachments/assets/932f5df0-2d47-4499-9ca7-0ee7871447c3" />
 
 ## 🎥 Project Demo
 
